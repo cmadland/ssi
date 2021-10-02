@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 3 Methods | Structured Student Interactions in Online Distance Learning</title>
+  <meta name="description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+  <meta name="generator" content="bookdown 0.24.1 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 3 Methods | Structured Student Interactions in Online Distance Learning" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://cmadland.github.io/ssi" />
+  
+  <meta property="og:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 3 Methods | Structured Student Interactions in Online Distance Learning" />
+  
+  <meta name="twitter:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+  
+
+<meta name="author" content="Colin Madland" />
+
+
+<meta name="date" content="2021-10-02" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="literature-review.html"/>
+<link rel="next" href="footnotes-and-citations.html"/>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Structured Student Interactions</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Exploring the Study Buddy Activity</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#abstract"><i class="fa fa-check"></i>Abstract</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#approvals"><i class="fa fa-check"></i>Approvals</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#dedication"><i class="fa fa-check"></i>Dedication</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#acknowledgements"><i class="fa fa-check"></i>Acknowledgements</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#historical-context-of-the-study"><i class="fa fa-check"></i>Historical Context of the Study</a></li>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#interaction"><i class="fa fa-check"></i>Interaction</a></li>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#interaction-equivalency-theorem"><i class="fa fa-check"></i>Interaction Equivalency Theorem</a></li>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#context-of-the-study"><i class="fa fa-check"></i>Context of the Study</a>
+<ul>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#rationale-for-and-structure-of-the-activity."><i class="fa fa-check"></i>Rationale for and structure of the activity.</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#significance-of-the-study"><i class="fa fa-check"></i>Significance of the Study</a></li>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#purpose-of-the-study"><i class="fa fa-check"></i>Purpose of the Study</a></li>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#limitations-and-definitions"><i class="fa fa-check"></i>Limitations and Definitions</a></li>
+<li class="chapter" data-level="" data-path="introduction.html"><a href="introduction.html#chapter-summary"><i class="fa fa-check"></i>Chapter Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="literature-review.html"><a href="literature-review.html"><i class="fa fa-check"></i><b>2</b> Literature Review</a>
+<ul>
+<li class="chapter" data-level="" data-path="literature-review.html"><a href="literature-review.html#social-constructivism"><i class="fa fa-check"></i>Social Constructivism</a></li>
+<li class="chapter" data-level="" data-path="literature-review.html"><a href="literature-review.html#cooperative-learning"><i class="fa fa-check"></i>Cooperative Learning</a></li>
+<li class="chapter" data-level="" data-path="literature-review.html"><a href="literature-review.html#critical-thinking"><i class="fa fa-check"></i>Critical Thinking</a></li>
+<li class="chapter" data-level="" data-path="literature-review.html"><a href="literature-review.html#fostering-critical-thinking-skills"><i class="fa fa-check"></i>Fostering Critical Thinking Skills</a></li>
+<li class="chapter" data-level="" data-path="literature-review.html"><a href="literature-review.html#chapter-summary-1"><i class="fa fa-check"></i>Chapter Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="methods.html"><a href="methods.html"><i class="fa fa-check"></i><b>3</b> Methods</a>
+<ul>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#mixed-methods-research"><i class="fa fa-check"></i>Mixed-Methods Research</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#participants"><i class="fa fa-check"></i>Participants</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#research-design"><i class="fa fa-check"></i>Research Design</a>
+<ul>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#hypothesis."><i class="fa fa-check"></i>Hypothesis.</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#null-hypothesis."><i class="fa fa-check"></i>Null hypothesis.</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#procedure"><i class="fa fa-check"></i>Procedure</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#quantitative-and-qualitative-procedures"><i class="fa fa-check"></i>Quantitative and Qualitative Procedures</a>
+<ul>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#quantitative-procedure."><i class="fa fa-check"></i>Quantitative procedure.</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#qualitative-procedure."><i class="fa fa-check"></i>Qualitative procedure.</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#validation-procedures."><i class="fa fa-check"></i>Validation Procedures.</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#instrumentation"><i class="fa fa-check"></i>Instrumentation</a>
+<ul>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#section-1-the-revised-two-factor-study-process-questionnaire-r-spq-2f."><i class="fa fa-check"></i>Section 1: The Revised Two Factor Study Process Questionnaire (R-SPQ-2F).</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#section-2-exploring-slavins-integrated-model."><i class="fa fa-check"></i>Section 2: Exploring Slavin’s integrated model.</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#section-3-exploring-student-perceptions-of-the-structure-of-the-study-buddy."><i class="fa fa-check"></i>Section 3: Exploring student perceptions of the structure of the study buddy.</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#section-4-exploring-the-views-of-non-participants."><i class="fa fa-check"></i>Section 4: Exploring the views of non-participants.</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#data-collection"><i class="fa fa-check"></i>Data Collection</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#data-analysis"><i class="fa fa-check"></i>Data Analysis</a>
+<ul>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#quantitative-analysis."><i class="fa fa-check"></i>Quantitative analysis.</a></li>
+<li class="chapter" data-level="" data-path="methods.html"><a href="methods.html#qualitative-analysis."><i class="fa fa-check"></i>Qualitative analysis.</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html"><i class="fa fa-check"></i><b>4</b> Footnotes and citations</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html#footnotes"><i class="fa fa-check"></i><b>4.1</b> Footnotes</a></li>
+<li class="chapter" data-level="4.2" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html#citations"><i class="fa fa-check"></i><b>4.2</b> Citations</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="blocks.html"><a href="blocks.html"><i class="fa fa-check"></i><b>5</b> Blocks</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="blocks.html"><a href="blocks.html#equations"><i class="fa fa-check"></i><b>5.1</b> Equations</a></li>
+<li class="chapter" data-level="5.2" data-path="blocks.html"><a href="blocks.html#theorems-and-proofs"><i class="fa fa-check"></i><b>5.2</b> Theorems and proofs</a></li>
+<li class="chapter" data-level="5.3" data-path="blocks.html"><a href="blocks.html#callout-blocks"><i class="fa fa-check"></i><b>5.3</b> Callout blocks</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="sharing-your-book.html"><a href="sharing-your-book.html"><i class="fa fa-check"></i><b>6</b> Sharing your book</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="sharing-your-book.html"><a href="sharing-your-book.html#publishing"><i class="fa fa-check"></i><b>6.1</b> Publishing</a></li>
+<li class="chapter" data-level="6.2" data-path="sharing-your-book.html"><a href="sharing-your-book.html#pages"><i class="fa fa-check"></i><b>6.2</b> 404 pages</a></li>
+<li class="chapter" data-level="6.3" data-path="sharing-your-book.html"><a href="sharing-your-book.html#metadata-for-sharing"><i class="fa fa-check"></i><b>6.3</b> Metadata for sharing</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Structured Student Interactions in Online Distance Learning</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="methods" class="section level1" number="3">
+<h1><span class="header-section-number">Chapter 3</span> Methods</h1>
+<div id="mixed-methods-research" class="section level2 unnumbered">
+<h2>Mixed-Methods Research</h2>
+<p>Formal mixed methods research designs are relatively new in social science research. According to Creswell and Plano Clark (2010), a mixed methods design collects and analyzes both quantitative and qualitative data and mixes the analyses one or more of three ways: (1) the datasets can be merged into a cohesive whole, (2) the results of one can build on the other, or (3) one dataset might be embedded in the other. Furthermore, Morse (2003) points out that mixed methods designs characteristically integrate methods that are not normally used together, such as embedding open-ended questions within Likert scale instruments. By using different types of data and analyses in a study, researchers can gain a greater depth of understanding than by using either method on its own, or, as Jick (1979) states, “Where there is convergence, confidence in the results grows considerably…However, where divergent results emerge, alternative, and likely more complex, explanations are generated” (p. 608).</p>
+<p>Creswell and Plano Clark (2010) contend that mixed methods designs can be very effective because of the possibility of triangulating data and results. For example, if the qualitative analysis of interview transcripts can be used to corroborate the quantitative results of a survey, then the researcher has a stronger base of evidence upon which to build an argument, which can increase the validity of the mixed results. Additionally, if the qualitative and quantitative analyses yield contradictory findings, the researcher may uncover hidden complexities or be able to formulate new research hypotheses to resolve the contradiction.
+Visual model of the research design.</p>
+<p>Due to the complexity of many mixed methods designs, Creswell and Plano Clark (2010) recommend that researchers provide a visual model of their particular design. The design used in this investigation, as shown in Figure 6, was a 2-phase QUAN/QUAL concurrent triangulation model (Creswell, 2009, p. 213). The rationale for using the mixed methods approach is that the results of the two forms of data analysis could be compared and merged into an integrated analysis which would be stronger than if either a quantitative or qualitative analysis was performed in isolation. This comparison of analyses is known as triangulation or sometimes as a convergent design (Creswell &amp; Plano Clark, 2010).</p>
+<p>Visual Model</p>
+<p>Figure 6. Visual Model of Research Method</p>
+</div>
+<div id="participants" class="section level2 unnumbered">
+<h2>Participants</h2>
+<p>Participants (n=31) in the study represented a convenience sample, as only one course that utilized this study buddy strategy was available to the researcher. A total of 101 students were invited to participate in the study; 26 in the Fall (September – December) 2012 semester, 25 students in the Winter (January – April) 2013 semester, and 50 students in two classes in the Spring (May-July) 2013 semester. All four classes had the same instructor.</p>
+</div>
+<div id="research-design" class="section level2 unnumbered">
+<h2>Research Design</h2>
+<p>The study used a mixed methods research design involving a survey to gather quantitative and qualitative data. A quasi-experimental design was employed to compare study buddy participants’ and non-participants’ scores on the Revised Two Factor Study Process Questionnaire (R-SPQ-2F) (Biggs et al., 2001). This was followed by a basic exploratory and descriptive analysis of the remaining quantitative data, and then a phenomenological analysis of the qualitative data. An integrated analysis was then used to compare and triangulate the findings of the previous analyses. The hypothesis and null hypothesis related to the R-SPQ-2F are described below.</p>
+<div id="hypothesis." class="section level3 unnumbered">
+<h3>Hypothesis.</h3>
+<p>Participants in the study buddy activity will take a deeper approach to their learning as measured by the R-SPQ-2F when compared to non-participants.</p>
+</div>
+<div id="null-hypothesis." class="section level3 unnumbered">
+<h3>Null hypothesis.</h3>
+<p>There will be no difference in the approaches to learning taken by study buddy participants and non-participants.</p>
+</div>
+</div>
+<div id="procedure" class="section level2 unnumbered">
+<h2>Procedure</h2>
+<p>The first round of data collection drew from the Fall 2012 and Winter 2013 cohorts and 7 responses were received, all from the Winter 2013 cohort and all had participated in the study buddy activity. The second round of data collection drew from two concurrent sections in the Spring 2013 semester. This resulted in a further 24 responses, of whom 18 participated in the study buddy activity and 6 did not. A total of 31 subjects participated in the study; 25 were participants in the study buddy activity and 6 were non-participants. The response rate was 30.6%.</p>
+</div>
+<div id="quantitative-and-qualitative-procedures" class="section level2 unnumbered">
+<h2>Quantitative and Qualitative Procedures</h2>
+<div id="quantitative-procedure." class="section level3 unnumbered">
+<h3>Quantitative procedure.</h3>
+<p>Following data collection, responses were downloaded from LimeSurvey™ into a comma-separated file, which was opened in a spreadsheet program. Responses were divided into separate sheets according to the research questions. Because qualitative items were included among the quantitative items, a separate sheet was created for the qualitative data. Any personally identifying information was removed from the data and stored in a separate file and all study participants were assigned a code. Identifying information was only used to contact the winner of the draw.</p>
+<p>Likert-scale items were converted from their original format to numerical responses. “Strongly Disagree” was given a score of “1” and “Strongly Agree” was given a score of “5” in accordance with the scoring scheme provided by Biggs et al. (2001). “Yes” and “No” responses were converted to “1” and “2” respectively.</p>
+<p>The first section of the survey (the Biggs et al. R-SPQ-2F) was the only section completed by both the participants in the study buddy activity (n=25) and the non-participants (n=6). Non-participants were removed from the remaining sections of the survey data so that their blank answers would not be factored into statistical calculations.</p>
+<p>Data were anonymized and loaded into PASW Statistics ™ (Student Version) for analysis. A limitation of the Student Version is that it is limited to 50 variables. This study contained 54 quantitative variables, so each section of the quantitative data was loaded individually. PASW Statistics ™ was used to calculate the t-test, basic descriptive statistics, and frequencies. Due to the exploratory nature of this investigation, the small sample size and the very small size of the non-participant group (n=6), further in-depth statistical analyses would have been unjustified.</p>
+</div>
+<div id="qualitative-procedure." class="section level3 unnumbered">
+<h3>Qualitative procedure.</h3>
+<p>The analysis of the qualitative data followed the hermeneutic phenomenology procedures outlined by Creswell (2007).</p>
+<ul>
+<li>Bracketing involves the researcher explaining his or her own experiences related to the phenomenon in question. This step is intended to allow the researcher to look at the phenomenon without bias or preconceived notions about the meaning of the phenomenon.</li>
+<li>Developing a list of significant statements through the process of horizontalization involves the researcher reading through the data several times to get a feeling for the data and then identifying statements that are particularly significant in light of the research questions. These statements are treated as having equal worth and any repeated or overlapping statements are removed from the data.</li>
+<li>Grouping the significant statements into themes involves the researcher identifying groups of significant statements that fall into larger categories, or themes.</li>
+<li>Describing what happened in the “textural description,” which outlines what happened from the perspective of the participants in the study and includes direct quotations from the participants.</li>
+<li>Describing how the phenomenon occurred in the “structural description,” which is a description of the context of the study.</li>
+<li>Combining the textural and structural description into the “composite description,” which captures the essence of the phenomenon.</li>
+</ul>
+<p>Each of these steps is described more fully in Chapter V.</p>
+</div>
+<div id="validation-procedures." class="section level3 unnumbered">
+<h3>Validation Procedures.</h3>
+<p>Validity in qualitative research refers to the idea that the findings of a qualitative study are an accurate representation of what the participants in the study actually experienced. Creswell (2007) recommends eight strategies that can be used to ensure validity in qualitative investigations. He recommends that researchers use at least two of the eight strategies. The strategies employed in this investigation were:</p>
+<ul>
+<li>Triangulation: this investigation gathered data from multiple sources (participants, non-participants, and the instructor), gathered two types of data (quantitative and qualitative), and relied on multiple theoretical foundations (interaction, cooperative learning, and student approach to learning).</li>
+<li>Member checking: during the qualitative analysis, the researcher consistently checked the coding process and results against what the participants reported in the quantitative data. The results of this process are made explicit in Chapter VI.</li>
+</ul>
+</div>
+</div>
+<div id="instrumentation" class="section level2 unnumbered">
+<h2>Instrumentation</h2>
+<p>The first step of this investigation gathered both quantitative and qualitative data through a survey. Data were gathered using Biggs, Kember &amp; Leung’s (2001) Revised Two Factor Study Process Questionnaire (R-SPQ-2F) (see Table 1), which was supplemented with additional sections designed to elicit responses related to how students perceived the effect of the study buddy activity on their approaches to learning and how they perceived the study buddy activity itself. The R-SPQ-2F is described in detail in the next section.</p>
+<p>Open-ended questions were interspersed throughout the quantitative items on the survey. These items were designed to elicit explanations of the participants’ choices on the quantitative items in order to understand their experiences with the study buddy activity. Responses to these open-ended questions formed the qualitative data for the study. The study was proposed to include the possibility of semi-structured interviews, but it was determined after the analysis of the responses to the open-ended questions that the data obtained were sufficient to satisfy the exploratory nature of the objectives of the study.</p>
+<p>The survey was divided into four sections corresponding to the three research questions and the fourth to gather data from subjects who did not participate in the study buddy activity. Prior to the main sections of the survey, participants were asked whether or not they participated in the study buddy activity. Those who participated were automatically directed to complete the first three sections, and those who did not participate were automatically directed to complete only the first section and the final section. The four sections are described below.</p>
+<div id="section-1-the-revised-two-factor-study-process-questionnaire-r-spq-2f." class="section level3 unnumbered">
+<h3>Section 1: The Revised Two Factor Study Process Questionnaire (R-SPQ-2F).</h3>
+<p>The R-SPQ-2F is predicated on the idea that students may take either a deep or a surface approach to different learning tasks depending on several factors as outlined in the 3P model of teaching and learning (Biggs et al., 2001). The R-SPQ-2F consists of 20 5-point Likert scale items, which are designed to gauge how an individual student approaches a particular learning task, with the goal of identifying whether the student takes a deep or a surface approach to the learning task. There are 10 items related to each approach. In addition to the two main scales, there are four subscales measured by the R-SPQ-2F. Within each scale are the two subscales related to the strategies students use and to their motives for using the particular approach. The R-SPQ-2F can be scored to reflect either the two main scales of a deep approach (DA) or a surface approach (SA) or to reflect the subscales, which are deep motive (dm), deep strategy (ds), surface motive (sm) or surface strategy (ss). Table 1 shows how the survey items align with each of the scales and subscales.</p>
+<p>Table 1</p>
+<p>Biggs et al. (2001) calculated Cronbach’s alpha (), which provides a measure for how reliably an instrument measures a particular phenomenon. Values for can range from 0 to 1, with higher scores indicating higher reliability. Biggs et al. calculated values for the R-SPQ-2F scales at 0.73 for the deep approach items and 0.64 for the surface approach items, values which are considered acceptable.</p>
+<p>In response to the suggestion from Biggs et al. that the instrument may be more sensitive if some items are revised according to different learning contexts, items 17 through 20 were revised to remove references to face-to-face classrooms and examinations as neither of those elements were features of the course used in the study.</p>
+<p>In addition to the R-SPQ-2F questionnaire, participants were asked to rate their responses on two additional categories of questions. The first category of questions was aimed at determining how study buddy participants think that the study buddy activity affected their learning based on Slavin’s (2011) integrated theoretical model of cooperative learning processes (Figure 4). The final category of questions was related to participants’ perceptions of the logistics of the study buddy activity and their evaluation of the structure of the activity.</p>
+<p>Students who chose not to participate in the study buddy activity completed section 1 of the survey related to their approach to learning, and then were directed to the final section, a series of questions to gauge their views on why they didn’t participate and under what conditions they might choose to participate in the future.</p>
+<p>One option on one item was added after the survey was administered to the Fall 2012 and Winter 2013 classes. The original survey asked participants if they would recommend the study buddy activity with the following options for responses: (1) to other learners in MDDE 604, (2) for use in other MDDE courses, or (3) for use as a general distance education strategy. After the Winter 2013 round of data collection, a fourth option was added to the question, (4) I would not recommend this activity for other learners or courses.</p>
+</div>
+<div id="section-2-exploring-slavins-integrated-model." class="section level3 unnumbered">
+<h3>Section 2: Exploring Slavin’s integrated model.</h3>
+<p>Table 2 shows the second category of questions and how they are aligned with the second research question: As a cooperative learning activity, does the study buddy activity provide sufficient scaffolding to promote deep approaches to learning?</p>
+<p>Categories of questions were derived from Slavin’s (2011) integrated model of cooperative learning. According to Slavin, there are four theoretical perspectives that interdependently explain how cooperative learning activities enhance learning. Theorists from the motivational perspective suggest that cooperative learning activities provide high levels of task motivation for participants to complete the required work. From the social cohesion perspective, students are motivated by their affinity for their group mates. The motivationalist and social cohesion perspectives work together in a mutually reinforcing feedback loop to enhance the effect of the activity. There are two perspectives that are considered cognitive perspectives. The cognitive development perspective suggests that students in cooperative learning environments are provided many opportunities to be challenged in what Vygotsky (1978) calls the zone of proximal development, where students are exposed to developmentally appropriate challenges. The cognitive elaboration, or cognitive restructuring, perspective posits that learning is enhanced when participants in cooperative learning activities are exposed to opportunities to consider their preconceptions and misconceptions of ideas in light of new information and to form more accurate models of the world.</p>
+<p>In this investigation, participants provided self-reports on the four categories of learning effects. There were two or three items in this section of the survey for each theoretical perspective on cooperative learning activities. Each item was answered on a 5-point Likert scale, ranging from (1) “Strongly disagree” to (5) “Strongly agree.”</p>
+<p>Table 2</p>
+<p>Participants were also asked whether the study buddy activity helped them to improve in various areas and if they would recommend the activity to others. These items were answered with either “Yes” or “No” (Table 3).</p>
+<p>Table 3</p>
+</div>
+<div id="section-3-exploring-student-perceptions-of-the-structure-of-the-study-buddy." class="section level3 unnumbered">
+<h3>Section 3: Exploring student perceptions of the structure of the study buddy.</h3>
+<p>The third section of the survey (Table 4) was used to determine how participants perceived the logistical structure and requirements of the study buddy
+activity. The questions in this section were answered on a 5-point Likert scale, ranging from (1) “Strongly disagree” to (5) “Strongly agree.”</p>
+<p>Table 4</p>
+<p>Participants were asked about the quantity and quality of their interaction with their study buddy partner, as well as their views on how the activity was structured in the course (Table 5).</p>
+<p>Table 5</p>
+</div>
+<div id="section-4-exploring-the-views-of-non-participants." class="section level3 unnumbered">
+<h3>Section 4: Exploring the views of non-participants.</h3>
+<p>Participants who reported that they did not participate in the study buddy activity were directed to a brief section of questions asking them for explanations of why they chose to not participate and what it might take for them to participate in a similar activity in the future (Table 6).</p>
+<p>Table 6</p>
+</div>
+</div>
+<div id="data-collection" class="section level2 unnumbered">
+<h2>Data Collection</h2>
+<p>The survey was administered and responses collected through LimeSurvey™, an open source online survey tool hosted on a server at Athabasca University. Students in the course MDDE 604 were sent an email (Appendix 2) inviting them to participate in the survey. The email contained information about the purpose of the survey, how long the survey would take, that participants would be eligible for a draw for a $100 gift card, and that participation was entirely voluntary. The email explained that their instructor was one of the supervisors of the thesis investigation but that he would not know whether or not students had participated in the study, nor would he have access to the raw data and only to the aggregated data after the course had ended and the grades had been submitted. Students were instructed that the thesis investigation had been reviewed and approved by the Athabasca University Research Ethics Board and that they would be indicating their informed consent by clicking the link to the survey.</p>
+<p>With the exception of the Fall 2012 class, who were invited after the course had ended, students were sent the invitation approximately half-way through the course and were sent reminders after they submitted the last assignment and immediately prior to the end of the course.</p>
+</div>
+<div id="data-analysis" class="section level2 unnumbered">
+<h2>Data Analysis</h2>
+<div id="quantitative-analysis." class="section level3 unnumbered">
+<h3>Quantitative analysis.</h3>
+<p>Quantitative data were analyzed using an independent samples t-test for the R-SPQ-2F section of the survey and basic descriptive statistics for the remainder of the quantitative data.</p>
+<p>An independent samples t-test was performed to determine whether or not there were any statistically significant differences in student approaches to learning between those subjects who participated in the study buddy activity and those who did not participate in the study buddy activity.</p>
+<p>It was possible to score between 10 and 50 points on each of the two scales measured by the R-SPQ-2F. For example, students who took a particular approach (deep or surface) about half the time would score 30 points on the corresponding scale and those who frequently took a particular approach would score 40 points on the corresponding scale.</p>
+<p>Biggs et al. (2001) do not provide or recommend norms or standards for their instrument because of the high degree of variability of institutional and teaching contexts (presage factors). Instead, they recommend the development of norms within institutions or even individual courses. As such, this study, being the first to examine this activity with the R-SPQ-2F, could not compare students’ scores with any previously published norms. Therefore, for this investigation, those participants who scored more than 40 points on the deep scale and less than 20 points on the surface scale were considered to have taken a predominantly deep approach in their learning. Those who scored 40 or fewer points on the deep scale and 20 or more points on the surface scale were considered to have taken a predominantly surface approach.</p>
+</div>
+<div id="qualitative-analysis." class="section level3 unnumbered">
+<h3>Qualitative analysis.</h3>
+<p>Qualitative data were analyzed according to the phenomenological protocols for analyzing qualitative data as outlined in Creswell (2007). Phenomenology is the study of the lived experiences of humans and is based largely on the ideas of Edmund Husserl, a German mathematician (Moustakas, 1994; van Manen, 1990). Contrary to quantitative methods, which seek to dichotomize, explain, and predict, phenomenology seeks to understand human experience (van Manen, 1990).</p>
+<p>According to Creswell’s (2007) protocol, the first task of phenomenologists is to describe their experience with the phenomenon in a process called bracketing. This process helps the researcher set aside his or her own experience and analyze the phenomenon from a new perspective. The researcher then reads through the data to develop a list of significant statements, which are then reduced to a list of non-overlapping statements through the process of horizontalization. These statements are then grouped into themes or meaning units. The next step is to write a textural description of the phenomenon, which essentially answers the question “What happened?” This is followed by the structural description, which describes how the phenomenon occurred and includes a description of the larger context or setting of the phenomenon. The final step is to write a composite description, which is usually a long paragraph integrating the textural and structural descriptions into a description of the essence of the phenomenon.
+Merging the findings.</p>
+<p>The final step of the analysis was to compare the results of the quantitative and qualitative analyses into a single, unified statement with respect to what the findings revealed in light of the research questions and the recommendations regarding incorporating the study buddy activity into online distance learning course design. The two analyses were integrated to show areas of convergence and divergence in a process known as triangulation (Creswell &amp; Plano Clark, 2010; Jick, 1979).</p>
+
+</div>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="literature-review.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="footnotes-and-citations.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": true,
+"facebook": false,
+"twitter": true,
+"linkedin": true,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": true,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/cmadland/ssi/edit/master/03-methods.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["ssi.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section",
+"scroll_highlight": true
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

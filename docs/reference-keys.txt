@@ -1,11 +1,7 @@
-fig:nice-fig
-tab:nice-tab
 eq:binom
-chapter-i
-cross
-chapters-and-sub-chapters
-captioned-figures-and-tables
-parts
+introduction
+literature-review
+methods
 footnotes-and-citations
 footnotes
 citations

@@ -1,6 +1,5 @@
-# Chapter I
+# Introduction 
 
-## Introduction {-}
 
 Ask five different people what contributes to the success of graduate students in online higher education and you may well get five different and contradictory answers, and all five answers may be correct. Student success in online distance learning is critical to economic and social prosperity in our modern, knowledge based economy (Contact North, 2014).  With so much information available to modern citizens from sources that may or may not be reputable or authoritative, it is important that graduates of our colleges and universities have the desire and the skill to think critically about what they see, read, or hear (Arum & Roksa, 2011a).
 
@@ -68,15 +67,15 @@ If there is no content to be learned, then it seems that learning cannot take pl
 
 Examples of student-content interaction include:
 
-    - students listening to a lecture (live or recorded),
-    - reading topical commentary in a learning management system or in printed materials,
-    - taking notes,
-    - performing research,
-    - memorizing facts,
-    - metacognitive strategies such as journaling,
-    - solving problems,
-    - resolving apparent contradictions,
-    - examining foundational assumptions.
+- students listening to a lecture (live or recorded),
+- reading topical commentary in a learning management system or in printed materials,
+- taking notes,
+- performing research,
+- memorizing facts,
+- metacognitive strategies such as journaling,
+- solving problems,
+- resolving apparent contradictions,
+- examining foundational assumptions.
 
 In higher education, student-content interaction can be scaled up quite dramatically, as evidenced by the large enrolments in some required undergraduate, lecture-based courses at large universities. When hundreds of students are enrolled in a course, student-teacher interaction is difficult, if not impossible, so the emphasis must shift to student-content interaction in the form of lectures and assigned readings.
 Student-student interaction.
@@ -87,22 +86,22 @@ The student-student mode of interactions in online distance learning is the focu
 
 Examples of activities that promote student-student interaction include the following:
 
-    cooperative learning activities,
-    collaborative research and design;
-    problem- or project-based learning,
-    debates,
-    discussion forums,
-    social media, such as blogs or wikis,
-    study groups,
-    virtual communities.
+- cooperative learning activities,
+- collaborative research and design;
+- problem- or project-based learning,
+- debates,
+- discussion forums,
+- social media, such as blogs or wikis,
+- study groups,
+- virtual communities.
 
-Interaction Equivalency Theorem.
+## Interaction Equivalency Theorem {-}
 
 In 2003, Terry Anderson proposed what he called the Interaction Equivalency Theorem, in which he states:
 
-    Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student–teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
+> Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student–teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
 
-    High levels of more than one of these three modes will likely provide a more satisfying educational experience, though these experiences may not be as cost or time effective as less interactive learning sequences. (Anderson, 2003a, p. 4)
+> High levels of more than one of these three modes will likely provide a more satisfying educational experience, though these experiences may not be as cost or time effective as less interactive learning sequences. (Anderson, 2003a, p. 4)
 
 A possible interpretation of the theorem is the idea that students can learn equally well regardless of whether they were interacting with a teacher, with other students, or only with the content, provided the interaction is of sufficient quality and quantity. Imagine that student A learns about Newtonian mechanics by asking questions of his or her instructor (student-teacher interaction), student B learns about Newtonian mechanics by joining a study group of fellow students (student-student interaction), and student C learns about Newtonian mechanics by reading about it in a book (student-content interaction). If, following their different learning activities, the students perform equally well on an assessment of their knowledge of Newtonian mechanics, we would be justified in stating that there is no significant difference between the three modes of interaction with respect to fostering learning.
 
@@ -130,3 +129,95 @@ Structured Student Interaction Model
 Figure 3. Structured Student Interactions Model
 
 In addition, the Structured Student Interactions model incorporates the idea that students can learn by observing the interactions between and among their peers and the teacher, a process known colloquially as lurking in online forums, and more officially as “vicarious” interaction (Sutton, 2001). While Anderson (2003b) specifically sets vicarious interaction aside as a byproduct of the other forms of interaction and as being dependent upon agents external to the student, the author’s personal experience has been that vicarious interaction can be a valuable educational experience, especially in an online course where those interactions happen in a discussion forum and are observable by other course participants. Furthermore, although they were not specifically measuring learning, Moisey, Neu, and Cleveland-Innes (2008) found that the number of forum postings that students read per week (lurking behaviour) was significantly correlated to students feeling connected to the classroom community, while posting and replying to messages was not. While feeling connected to a community does not guarantee that a student is meeting learning objectives, it is a construct valued by those who want to increase student engagement.
+
+## Context of the Study {-}
+
+
+The study buddy activity was a voluntary learning activity in a graduate-level, asynchronous, online distance learning course in instructional design (MDDE 604) offered by Athabasca University. MDDE 604 is a required course for the Master of Education (Distance Education) as well as the Post-Baccalaureate Certificate and Diploma in Instructional Design programs offered through the Centre for Distance Education (CDE) at Athabasca University (AU). It is an elective for two other post-baccalaureate programs in the CDE as well as other faculties at AU.
+Course description.
+
+MDDE 604, Instructional Design in Distance Education, is the second of two required courses in instructional design for students working to earn one of the credentials outlined above. It is a project-based course that requires students to, over the course of four assignments, propose, design, and create a unit of instruction utilizing the theoretical foundations learned in the prerequisite, MDDE 603, Foundations of Instructional Design: Systems Analysis and Learning Theory. MDDE 604 is delivered as an online asynchronous course over 13 weeks through the learning management system, Moodle™. Assessment is based on completion of four mandatory and sequential assignments, three small group conferences, and the optional study buddy activity.
+
+- Assignment One (20%): complete a needs analysis and proposal for the instructional unit.
+- Assignment Two (10%): create the design specifications for the instructional unit.
+- Assignment Three (10%): review a peer’s unit from a learner’s perspective and provide constructive feedback.
+- Assignment Four (40%): complete the instructional unit including discussions of the design of the unit, plans for revising and updating the content, student assessment, and the logistics of delivery.
+- There are three conferences (two asynchronous and one synchronous) that together comprise the remaining 15% of the final grade.
+- Students who complete the requirements of the optional study buddy activity can earn up to 5% extra to be added to their final grade.
+
+### Rationale for and structure of the activity. {-}
+
+A significant component of the context of the activity is the instructor’s rationale for including the activity in the course. His rationale is summarized below.
+
+Students in MDDE 604 are most often mid-career professionals with very busy lives outside of their studies including full-time employment, families, and various community responsibilities. They are often returning to school after working for a number of years and may not be entirely comfortable writing at a graduate level, although this course can only be taken if the student has previously passed at least one other graduate-level course. The nature of online distance learning is such that it can often be a lonely and isolating experience.
+
+The initial impetus for the activity was to provide a way for students to have their work previewed prior to submission to the instructor who found that he was spending too much time grading papers which were below acceptable academic standards for a graduate-level course. The instructor found that there were too many careless errors such as spelling mistakes and poor grammar as well as evidence that the assignments were rushed and not carefully considered prior to submission. The instructor thought that the students were somewhat unaware that they were more capable writers than was evidenced in their assignments and that they just needed a little proofreading and feedback to help them achieve greater success in their writing. The instructor’s previous research into cooperative learning strategies led him to consider the study buddy activity as a way to address these issues and incorporate a small-scale peer review process into the course while maintaining individual accountability. The voluntary nature of the activity and the extra credit for completion were due to the fact that the activity requires extra work for already busy students.
+
+While there is little prescribed structure for the activity, the structure that is there is designed to increase the chances of success for study buddy partnerships. For example, those who consider themselves “bunnies”, who like to complete their work well ahead of schedule, and those who consider themselves “bears”, who typically work closer to assignment deadlines, are encouraged to find partners who are similar to themselves to avoid conflict related to the timing of the peer review process. Furthermore, the structure is intended to help those who might otherwise be unwilling or reluctant to reach out to others in the course.
+
+The study buddy activity requires students to find a partner in the class with whom they will exchange assignments a few days prior to the assignment deadline for the purposes of providing constructive feedback. Students who complete all the requirements of the activity can earn up to an additional 5% towards their final grade. The activity is introduced to students in the course with the following description (Richards, personal communication, January 3, 2013):
+
+Up to five additional points can be earned by pairing up with a classmate and reviewing each assignment before it is submitted to the instructor.
+
+A short (1-2 page) reflection on the activity is due at the end of the course. You will be “audited” and asked to submit your review work in order to get the bonus marks (nothing for free these days). The reflection should answer questions like: How did you choose your Buddy? How did you organize your work? What were the positives and negatives you experienced? In what ways did it improve your learning? Would you recommend it for the next course? Please add any suggestions for improving this activity.
+
+The instructor leaves it up to the students to organize themselves into pairs and after the first week of the course, posts the following announcement or one similar:
+
+**Week 1 Instructor Announcement – hints for success in the course:**
+
+Find a good Study Buddy and work together to improve each other’s work. While the buddies’ commitment is to exchange & proofread assignments 3 days before the due dates (to have time to make fixes) most buddies end up discussing assignments at the beginning, middle and end. (I’ll send more info on the study buddy bonus later).
+
+After the third week, the instructor posts another announcement:
+
+**Study Buddy Reminder**
+
+Just a reminder that Wednesday is your last day to find a Study Buddy partner (because Assignment 1 has curmudgeons, to be exchanged 3 days prior the due date). Study Buddy is not for everyone, procrastinators and short cutters tend not to fare well. But when sincere bears match with bears and bunnies with bunnies it tends to out a whole new spin on learning at a distance.
+
+Occasionally, a study buddy partnership does not work out so the instructor allows participants who might unwittingly find themselves without a functioning partnership to back out and find a new partner. There was one case in this investigation where the instructor needed to help a stranded partner find a new partner.
+
+An advantage of an activity like the study buddy activity is that it is a structural element of a learning task and can be employed in a wide variety of disciplinary contexts and learning tasks. Showing empirically the study buddy activity to be a structure that tends to promote deep approaches to learning as well as social engagement would be of significant benefit to instructional designers, teachers and administrators and perhaps the apparent contradiction between the work of Arum et al. (2011) and Kuh (2001) could be resolved.
+
+## Significance of the Study {-}
+
+This study will potentially benefit a number of different but overlapping communities. For example, instructional designers will more clearly understand the rationale and benefits of incorporating cooperative learning activities and study buddy experiences into their courses, faculty developers will be able to assist faculty who are transitioning to a blended or online model with recommendations for activities that can be implemented in a diverse set of circumstances, and students will be encouraged that the work of engaging with a peer will be beneficial in their studies and careers. Furthermore, the study may provide a foundation for those who wish to promote engagement and critical thinking in massive open online courses (MOOCs) as well as for universities considering the use of social networking software.
+
+## Purpose of the Study {-}
+
+The purpose of this study was to explore the study buddy strategy as one that uses well-structured student-student interaction as shown in the Structured Student Interactions model to promote deeper approaches to learning and, by extension, the ability to think critically, a key indicator of success in post-secondary studies. Additionally, following Slavin’s (2011) integrated model of cooperative learning, the study explored various ways in which the study buddy activity might affect student approaches to learning, including encouraging social cohesion and motivation, providing developmentally appropriate learning, and promoting cognitive restructuring. Finally, the study explored participants’ perceptions related to the logistics and structure of the study buddy activity.
+
+The thesis investigation explored the following questions related to the study buddy activity:
+
+- Do online graduate students who participate in a structured study buddy activity tend to use deep approaches in their learning?
+- As a cooperative learning activity, does the study buddy activity provide sufficient scaffolding to promote deep approaches to learning?
+- In what ways do students find value in the study buddy activity?
+
+## Limitations and Definitions {-}
+
+
+Limitations of the study (i.e., those factors that constrained the study and were beyond the control of the researcher) included the fact that the participants were graduate students and therefore may have been more inclined to take a deep approach to learning and more able to think critically than undergraduate students. Also, as the study buddy activity was voluntary, participants might have been more motivated to take deeper approaches to learning than non-volunteers. Finally, as the quantitative part of the study was a quasi-experimental design with a non-random sample of participants and no control group, the results are not generalizable to other contexts.
+
+Delimitations of the study (i.e., those factors that restricted the study and were under the control of the researcher) included the fact that the study buddy activity in one course offered by one faculty member was examined.  Also, because the study utilized an instrument designed to measure student approaches to learning within a particular personal and teaching context (the study buddy activity in MDDE 604), the findings cannot be extended to other learning activities or contexts. Finally, the study only explored one possible cooperative learning structure out of many that could have been explored.
+Definition of Terms
+
+**Academic rigour:** the degree to which programs and courses are cognitively challenging as measured by the amount of reading and writing students are required to do, how much students study alone, and how many students report that their instructors have high expectations. Measurable outcomes of academically rigourous learning experiences include critical thinking, complex reasoning and written communication skills (Arum & Roksa, 2011b).
+
+*8Cooperative learning:** instructional methods that involve organizing students into dyads or small groups which must then rely on each other to learn the prescribed material (Slavin, 2011). Cooperative learning activities are structured so that the success of each student is dependent upon and promotes the success of the other students (Slavin, 1980).
+
+**Critical thinking:** the ultimate goal of higher education, which is characterized by students’ ability and willingness to reason well, solve complex problems, draw inferences from evidence, and question tacit assumptions. Critical thinking has been called “cautious intelligence” and “reflective skepticism” (Brookfield, 1987, p. 21).
+
+**Deep learning approach:** an approach to learning where the student uses appropriate and meaningful cognitive strategies to understand, extend, and apply their knowledge (Biggs, Kember, & Leung, 2001, p. 21).
+
+**Interaction:** one of the defining traits of educational contexts. Described as “reciprocal events that require at least two objects and two actions. Interactions occur when these objects and events mutually influence one another” (Wagner, 1994, p. 8).
+
+**Online distance learning:** subset of distance learning where instructors and learners are separated geographically, and sometimes temporally, and significant learning outcomes are met primarily using asynchronous, Internet-based tools. Online distance learning can include blended learning environments where significant learning outcomes are also met in a face-to-face environment.
+
+**Surface learning approach:** an approach to learning where the student is mostly concerned with doing as little work as possible to complete the requirements of the task. This approach is characterized by the use of low-level cognitive strategies such as rote memorization of facts, when higher level strategies such as synthesis of disparate ideas are required for the task (Biggs & Tang, 2007).
+
+## Chapter Summary {-}
+
+
+This chapter introduced the study buddy activity as the object of this thesis investigation and outlined the historical and present contexts of the activity.  The chapter introduced two models of interaction that have previously been described in the literature and proposed a third model that could represent a synthesis of the previous models. Chapter I introduced the research questions and outlined the limitations and delimitations of the study. The chapter concluded with a discussion of several key terms related to the study.
+
+**Organization of the Thesis**
+
+This thesis consists of seven chapters beginning with the introduction to the context of the study and the research questions in Chapter I. Chapter II presents a review and discussion of the scholarly literature related to the theoretical foundation of the study. Important topics in the review of the literature are the nature of social constructivism as a learning theory; cooperative learning; a discussion of critical thinking, what it is, and how it can be fostered in higher education; and the idea of students’ approach to learning. Chapter III describes the method used to conduct the research, including a description of the characteristics of mixed methods research and a visual diagram of the structure of this investigation. The chapter concludes with a brief discussion of how the quantitative and qualitative data were analyzed and merged into a unified conclusion. Chapter IV describes the analysis of the quantitative data with respect to the research questions. Chapter V is a description of the qualitative data analysis following phenomenological procedures. Chapter VI discusses how the quantitative and qualitative phases of the research were merged into a unified statement of the results. Chapter VII presents the conclusions of the research, recommendations for the implementation of the study buddy activity, and questions for further study.
