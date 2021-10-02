@@ -148,3 +148,20 @@ According to Creswell’s (2007) protocol, the first task of phenomenologists is
 Merging the findings.
 
 The final step of the analysis was to compare the results of the quantitative and qualitative analyses into a single, unified statement with respect to what the findings revealed in light of the research questions and the recommendations regarding incorporating the study buddy activity into online distance learning course design. The two analyses were integrated to show areas of convergence and divergence in a process known as triangulation (Creswell & Plano Clark, 2010; Jick, 1979).
+
+## Ethical Considerations {-}
+
+
+This thesis investigation was reviewed and approved by the Athabasca University Research Ethics Board. There was a possibility that participants in the study could have been inappropriately compelled to participate in the study or to provide answers to the survey questions that did not accurately reflect their views because one of the supervisors of the research was also the instructor of the course being investigated. It was necessary for the researcher to investigate this particular course because it was the only known course that utilized the study buddy activity.
+
+The following steps were taken to ensure that the participants’ decision whether or not to participate in the study and their answers to the survey questions were not influenced by their relationship to the co-supervisor:
+
+- participant recruitment was initiated by Athabasca University support staff,
+- the co-supervisor never knew which students chose to participate or not, or if any students withdrew from the activity,
+- all identifying information was redacted from the quantitative and qualitative data prior to the co-supervisor having access,
+- the co-supervisor did not have access to the redacted data until after the course was completed and all grades were submitted to the university.
+
+## Chapter Summary {-}
+
+This chapter outlined the research methodology for this investigation, including a description of the general characteristics of mixed methods research. The design of this thesis investigation was described as a 2-phase QUAN/QUAL concurrent triangulation model, with the rationale that the 2 phases of data analysis would be compared and merged into a coherent whole that was stronger than if either method had been used in isolation. The next sections provided descriptions of the participants in the study, the data collection procedures, and the instrument used to collect the data. The data collection survey was divided into four sections, one for each of the research questions and one final section for those students who did not participate in the study buddy activity. The next section of chapter three described how the quantitative and qualitative data were analyzed and merged. The chapter ended with a description of the ethical considerations and the review and approval by the Athabasca University Research Ethics Board.
+

@@ -2,9 +2,6 @@ eq:binom
 introduction
 literature-review
 methods
-footnotes-and-citations
-footnotes
-citations
 blocks
 equations
 theorems-and-proofs
