@@ -1,0 +1,25 @@
+--- 
+title: "Structured Student Interactions in Online Distance Learning"
+author: "Colin Madland"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://cmadland.github.io/ssi
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::bs4_book,
+  set in the _output.yml file.
+biblio-style: apalike
+csl: chicago-fullnote-bibliography.csl
+---
+
+# Exploring the Study Buddy Activity
+
+## Abstract
+
+
+This mixed methods study explored the characteristics of a cooperative learning activity, the “Study Buddy”, implemented in a graduate-level online course in instructional design. The study explored whether students (n=25) who participated in the Study Buddy activity took deeper approaches to their learning than those who did not participate (n=6), what value students received from participating in the activity, and whether the structure of the activity was appropriate to support deeper approaches to learning.
+
+Quantitative and qualitative results were merged to form conclusions that suggest that participants could be encouraged to take deeper approaches by faculty providing sample questions for students to use to evaluate their partners’ work. Results suggest that the study buddy activity can be used to encourage social connections and to provide participants with opportunities to consider alternate opinions. Findings related to the ideal structure of the activity were inconclusive.
