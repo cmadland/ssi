@@ -8,8 +8,8 @@ bibliography: [book.bib]
 url: https://cmadland.github.io/ssi
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::bs4_book,
+  This is an example of using the bookdown package to write a thesis.
+  The HTML output format for this example is bookdown::gitbook,
   set in the _output.yml file.
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
