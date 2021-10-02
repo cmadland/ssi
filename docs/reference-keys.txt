@@ -1,11 +1,8 @@
-eq:binom
 introduction
 literature-review
 methods
-blocks
-equations
-theorems-and-proofs
-callout-blocks
+quantitative-analysis-and-results
+qualitative-analysis-and-results
 sharing-your-book
 publishing
 pages
