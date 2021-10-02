@@ -1,7 +1,7 @@
 --- 
 title: "Structured Student Interactions in Online Distance Learning"
 author: "Colin Madland"
-date: "2021-10-02"
+date: "2014"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]

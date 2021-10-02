@@ -3,7 +3,6 @@ literature-review
 methods
 quantitative-analysis-and-results
 qualitative-analysis-and-results
-sharing-your-book
-publishing
-pages
-metadata-for-sharing
+merged-analysis-and-results
+conclusions
+references
