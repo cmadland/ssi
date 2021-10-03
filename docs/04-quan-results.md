@@ -8,7 +8,24 @@ With respect to the research questions, no significant differences were detected
 
 PASW Statistics ™ was used to compare the means of participants and non-participants with respect to their reported approach to learning scores. The R-SPQ-2F (Biggs et al., 2001) contains 20 Likert scale items that can be used to gauge whether students take a deep or a surface approach to their learning. In addition to the two main scales measuring deep and surface approaches, the survey contains four subscales measuring deep motives, deep strategies, surface motives, and surface strategies. The results can be calculated according to the subscales and/or the scales. Results of the independent samples t-test are shown in Table 7.
 
-Table 7
+ Table 7. _T-Test for equality of means._ 
+ 
+|   |   |   |   |   |   |   |   | 
+| --- |--- |--- |--- |--- |--- |--- |--- |
+| Scale | Subscale | Participation | n | Mean | SD | t | p (2-tailed) |
+| Deep | Strategy | Yes | 25 | 18.4 | 2.99 | .810 | .425 |
+|   |   | No | 6 | 17.3 | 2.42 |
+|   | Motive | Yes | 25 | 19.4 | 2.20 | .395 | .696 |
+|   |   | No | 6 | 19.0 | 2.37 |
+|   | Combined  | Yes | 25 | 37.8 | 4.69 | .696 | .492 |
+|   |   | No | 6 | 36.3 | 4.37 |
+| Surface | Strategy | Yes | 25 | 10.3 | 3.21 | -.121 | .904 |
+|   |  | No | 6 | 10.5 | 3.51 |
+|   | Motive | Yes | 25 | 8.3 | 2.25 | -1.134 | .266 |
+|   |   | No | 6 | 9.5 | 2.88 |
+|   | Combined | Yes | 25 | 18.6 | 5.13 | -.576 | .569 |
+|   |   | No | 6 | 20 | 6.26 |
+| Df=29p <br> \&lt;.05<br>Equal variances assumed. |   |   |   |   |   |   |   | 
 
 Given the high significance values (p) in Table 7, it is very unlikely that any differences between the participants and non-participants on either the main scales or the sub-scales were due to anything other than chance. The hypothesis that students who participated in the study buddy activity would take deeper approaches to learning was not supported at the 0.05 level and therefore was rejected.
 
@@ -23,17 +40,41 @@ The second research question was reflective of the exploratory nature of the stu
 A key structural component of the study buddy activity is the description that the instructor uses to characterize different types of students. Richards (personal communication, n.d.) uses “bunnies” to describe those students who typically prefer to get their work done early and “bears” to describe those who usually finish their work at the last minute. He recommends that bunnies pair with bunnies and bears pair with bears to avoid the conflicts that may arise in a partnership with one who wants to complete the work early and the other who procrastinates and pushes the work to the deadline.
 A summary of the data related to mix of bunnies and bears in this study is displayed in Table 8.
 
-Table 8
+Table 8. _Mix of Bunnies and Bears (n=25)_ 
+| --- | --- | --- | --- |
+| Item | Option | n | % of Total |
+| In setting up the Study Buddy activity the instructor refers to &quot;bunnies&quot; as those who quickly get assignments done, and &quot;bears&quot; as those who tend to wait until the last minute. In terms of my study buddy profile, I am: | a bear | 0 | 0 |
+|   | more of a bear | 3 | 12 |
+|   | an equal mix | 7 | 28 |
+|   | more of a bunny | 10 | 40 |
+|    | a bunny | 5 | 20 |
 
 Data were gathered in a manner that could not have indicated whether learners who identified as bears also preferred to work on their own, or if the cohorts from which these participants were recruited were more densely populated with bunnies, or if online graduate students are typically more bunny-ish than other populations. All three of these possibilities have implications for future research into the study buddy activity.
 
 Data were gathered to explore the characteristics of the study buddy pairs and whether or not participants found the “bunny-bear” characterization to be helpful. These data are summarized in Table 9.
 
-Table 9
+Table 9. _Study buddy profiles. (n=25)_ 
+
+|   |   |   |   |
+| --- | --- | --- | --- |
+| Item | Mean | % of Total who Agree or Strongly Agree | % of Total who Disagree or Strongly Disagree |
+| My study buddy and I had the same profiles (bunny or bear). | 3.44 | 48 | 28 |
+| My personality conflicted with my study buddy&#39;s personality. | 1.52 | 8 | 92 |
+| My study buddy and I were able to work together effectively. | 4.04 | 80 | 16 |
+| The instructor&#39;s description of bunnies and bears was useful in choosing a study buddy. | 2.72 | 12 | 28 |
+
 
 The importance of partner compatibility was an interesting theme recurring throughout the quantitative and qualitative findings. Of the three participants who described themselves as “more of a bear” (Table 8), all three indicated that their partner had a different profile than their own, yet only one of the three reported having a bad experience in the study buddy activity.
 
-Table 10
+Table 10. _Quality of experiences by differences in profile. (n=25)_ 
+
+|   |   |   |   |   |
+| --- |--- |--- |--- |--- |
+| Quality of experience | My study buddy and I had the same profiles. |
+| Strongly disagree | Disagree | Neither agree nor disagree | Agree | Strongly agree |
+| Good experience | 0 | 4 | 5 | 6 | 6 |
+| Neither good nor bad | 0 | 0 | 1 | 0 | 0 |
+| Bad experience | 0 | 3 | 0 | 0 | 0 |
 
 Three participants reported having a bad experience with the study buddy activity (Table 10), and all three had partners with different profiles, however, there were another four who reported having a good experience while their partners had a different profile. Furthermore, one of the participants who had a bad experience reported that their partner suddenly disengaged from the activity without notification (it was later learned that the partner who disappeared did so for medical reasons).
 
@@ -41,7 +82,16 @@ The findings were inconclusive on the question of the utility of the “bunny-be
 
 A key difference between asynchronous online and face-to-face learning environments is the greater need for clear, concise instructions in an asynchronous online environment. When an instructor is not physically or temporally present to answer questions about the details of an activity, it is incumbent upon the designer of the learning materials to ensure that the instructions for any activity are easy for the learners to understand. Table 11 summarizes the data with respect to the ease with which study buddy participants were able to understand the requirements and to engage with the activity.
 
-Table 11
+Table 11. _Study buddy instructions. (n=25)_ 
+
+|   |   |   |   |
+| --- |--- |--- |--- |
+| Item | Mean | % of Total who Agree or Strongly Agree | % of Total who Disagree or Strongly Disagree |
+| The instructions for the study buddy were easy to follow. | 3.8 | 76 | 8 |
+| I accurately anticipated the amount of time that the study buddy would take. | 3.76 | 72 | 12 |
+| The study buddy was an effective use of my time. | 4.0 | 80 | 8 |
+| I would participate in the study buddy again. | 4.28 | 88 | 4 |
+
 
 The findings indicate that the instructions for the study buddy activity were easy to follow and clear enough to allow potential participants to predict the amount of time the activity would require. The very high levels of reported effectiveness and willingness to participate again indicate that the study buddy participants were satisfied with the benefits they received for the work they put into the study buddy activity.
 
@@ -49,7 +99,21 @@ It is noteworthy that those who chose to not participate in the study buddy acti
 
 With only three (12%) participants having reported a low quality experience with the study buddy activity, this investigation cannot answer the question of whether the number of times study buddy partners were in contact is an indicator of the quality of the experience. However, more than half (n=14; 56%) of the participants reported that they were in contact with their study buddy partner at least once per week (Table 12). With a total of four course assignments that were a part of the study buddy activity, this number is noticeably higher, both in the number of participants and the frequency of communication, than those who were in contact with their partner only when assignments were due.
 
-Table 12
+Table 12. _Participant Experiences and Recommendations. (n=25)_ 
+
+|   |   |   |   |
+|--- |---|---| --- |
+| Item | Option | n | % of Total |
+| How often were you in contact with your study buddy? | Never | 1 | 4 |
+|   | Only when assignments were due. | 10 | 40 |
+|   | Once per week. | 7 | 28 |
+|   | 2-3 times per week. | 6 | 24 |
+|   | Daily | 1 | 4 |
+| Would you say that you had a &#39;good&#39; study buddy experience? | No, I had a bad experience. | 3 | 12 |
+|   | Neither good nor bad. | 1 | 4 |
+|   | Yes, I had a good experience. | 21 | 84 |
+| Now that you have had the study buddy experience, do you think it is necessary for it to continue to be a formal option in the course or do you think that it is something that is best left to learners to organize by themselves? | It would be better for learners to organize their own study partners. | 6 | 24 |
+|   | The study buddy should continue to be a formal option in the course. | 19 | 76 |
 
 The idea that the frequency of interactions is a good sign is supported by the fact that 84% (n=21) of participants in the study indicated that they had a good experience throughout the study buddy activity. This finding was also supported in the qualitative analysis. As noted previously, the three participants who reported having a bad experience all had study buddy partners with a different profile. The one participant who reported that the experience was neither good nor bad had a partner who completely failed to engage in the process.
 

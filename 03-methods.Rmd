@@ -79,7 +79,33 @@ The survey was divided into four sections corresponding to the three research qu
 
 The R-SPQ-2F is predicated on the idea that students may take either a deep or a surface approach to different learning tasks depending on several factors as outlined in the 3P model of teaching and learning (Biggs et al., 2001). The R-SPQ-2F consists of 20 5-point Likert scale items, which are designed to gauge how an individual student approaches a particular learning task, with the goal of identifying whether the student takes a deep or a surface approach to the learning task. There are 10 items related to each approach. In addition to the two main scales, there are four subscales measured by the R-SPQ-2F. Within each scale are the two subscales related to the strategies students use and to their motives for using the particular approach. The R-SPQ-2F can be scored to reflect either the two main scales of a deep approach (DA) or a surface approach (SA) or to reflect the subscales, which are deep motive (dm), deep strategy (ds), surface motive (sm) or surface strategy (ss). Table 1 shows how the survey items align with each of the scales and subscales.
 
-Table 1
+Table 1. _Alignment of R-SPQ-F survey items to approaches to learning._
+
+|  | | | |
+| --- |--- |--- |--- |
+| Approach to study | Subscale | Item # | Item |
+| Deep (DA) | Motive(dm) | 1 | I find that at times studying gives me a feeling of deep personal satisfaction. |
+|   |   | 5 | I feel that virtually any topic can be highly interesting once I get into it. |
+|   |   | 9 | I find that studying academic topics can at times be as exciting as a good novel or movie. |
+|   |   | 13 | I work hard at my studies because I find the material interesting. |
+|   |   | 17 | I approach most study sessions with questions in mind that I want answering. |
+|   | Strategy(ds) | 2 | I find that I have to do enough work on a topic so that I can form my own conclusions before I am satisfied. |
+|   |   | 6 | I find most new topics interesting and often spend extra time trying to obtain more information about them. |
+|   |   | 10 | I test myself on important topics until I understand them completely. |
+|   |   | 14 | I spend a lot of my free time finding out more about interesting topics which have been discussed in different classes. |
+|   |   | 18 | I make a point of looking at most of the suggested readings that go with the required learning materials. |
+| Surface (SA) | Motive(sm) | 3 | My aim is to pass the course while doing as little work as possible. |
+|   |   | 7 | I do not find my course very interesting so I keep my work to the minimum. |
+|   |   | 11 | I find I can get by in most assessments by memorizing key sections rather than trying to understand them. |
+|   |   | 15 | I find it is not helpful to study topics in depth. It confuses and wastes time, when all you need is a passing acquaintance with topics. |
+|   |   | 19 | I see no point in learning material which is not likely to be assessed. |
+|   | Strategy(ss) | 4 | I only study seriously what&#39;s given out in class or in the course outlines. |
+|   |   | 8 | I learn some things by rote, going over and over them until I know them by heart even if I do not understand them. |
+|   |   | 12 | I generally restrict my study to what is specifically set as I think it is unnecessary to do anything extra. |
+|   |   | 16 | I believe that lecturers shouldn&#39;t expect students to spend significant amounts of time studying material everyone knows won&#39;t be examined. |
+|   |   | 20 | I find the best way to pass assessments is to try to remember answers to likely questions. |
+
+
 
 Biggs et al. (2001) calculated Cronbach’s alpha (), which provides a measure for how reliably an instrument measures a particular phenomenon. Values for  can range from 0 to 1, with higher scores indicating higher reliability. Biggs et al. calculated values for the R-SPQ-2F scales at 0.73 for the deep approach items and 0.64 for the surface approach items, values which are considered acceptable.
 
@@ -99,28 +125,100 @@ Categories of questions were derived from Slavin’s (2011) integrated model of 
 
 In this investigation, participants provided self-reports on the four categories of learning effects. There were two or three items in this section of the survey for each theoretical perspective on cooperative learning activities. Each item was answered on a 5-point Likert scale, ranging from (1) “Strongly disagree” to (5) “Strongly agree.”
 
-Table 2
+Table 2. _Alignment of survey items to Slavin's model_
+
+|    |    |    |    |
+| --- | --- | --- | --- |
+| Means of Affect | Indicators | Item # | Items |
+| Motivation | Marks <br> Achievement | 22 | The study buddy activity helped me get better marks on my assignments. |
+|  |  | 23 | The study buddy activity helped motivate me to learn the material. |
+| Social Cohesion | Mutual help<br>Teamwork<br>Professionalism | 24 | I was able to get to know my study buddy on a personal level. |
+|  |  | 25 | I wanted to help my study buddy. |
+|  |  | 26 | My study buddy and I were able to work together well. |
+| Developmentally Appropriate Challenges | Processes <br> Structure <br> Peer Support <br>Approach to learning | 27 | My study buddy and I were able to challenge each other appropriately. |
+|  |  | 28 | My study buddy and I had similar academic abilities. |
+| Cognitive Restructuring | Intellectual conflict<br>Debate | 29 | I disagreed with my study buddy about important course concepts. |
+|  |  | 30 | My study buddy clarified my misconceptions about course concepts. |
+|  |  | 31 | The study buddy activity helped me think more clearly about the course content. |
+| Open-ended | As above | 32 | Please write a few sentences to explain how the study buddy was or was not valuable for you. |
 
 Participants were also asked whether the study buddy activity helped them to improve in various areas and if they would recommend the activity to others. These items were answered with either “Yes” or “No” (Table 3).
 
-Table 3
+Table 3.
+_Alignment of survey items to students&#39; perceptions of the value of the study buddy activity._ 
+
+|   |   |   |
+| --- | --- | --- |
+|   | Item # | Items |
+| Did the study buddy activity help you to improve… | 33 | Your understanding of the course material |
+|   | 34 | Your completion of the assignments |
+|   | 35 | Your marks in this course |
+|   | 36 | Your professional understanding of what instructional design involves |
+|   | 37 | Your level of participation in this distance education course |
+| Would you recommend the study buddy activity | 38 | To other learners in MDDE 604 |
+|   | 39 | For use in other MDDE courses |
+|   | 40 | For use as a general distance education strategy |
+|   | 41 | I would not recommend the study buddy activity for other learners or coursesa |
+| aItem #41 was added to the survey after the first round of data collection. |   |   |
 
 ### Section 3: Exploring student perceptions of the structure of the study buddy. {-}
 
 The third section of the survey (Table 4) was used to determine how participants perceived the logistical structure and requirements of the study buddy
 activity. The questions in this section were answered on a 5-point Likert scale, ranging from (1) “Strongly disagree” to (5) “Strongly agree”.
 
-Table 4
+Table 4. _Alignment of survey items to logistical considerations._ 
+|   |   |   |   |
+| --- | --- | --- | --- |
+| Logistical Considerations | Indicators | Item # | Items |
+| Structure | Time<br>Instructions | 42 | The instructions for the study buddy were easy to follow. |
+|   |   | 43 | I accurately anticipated the amount of time that the study buddy activity would take. |
+| Value | Effectiveness<br>Recommendations | 44 | The study buddy activity was an effective use of my time. |
+|   |   | 45 | I would participate in the study buddy again. |
+| Teamwork | Cooperation<br>Conflict | 46 | My study buddy and I were able to work together effectively. |
+|   |   | 47 | My personality conflicted with my study buddy&#39;s personality. |
 
 Participants were asked about the quantity and quality of their interaction with their study buddy partner, as well as their views on how the activity was structured in the course (Table 5).
 
-Table 5
+Table 5. _Alignment of survey items to the quantity and quality of interactions._ |
+
+|   |   |   |
+| --- |--- |--- |
+| Item # | Item | Response OptionsItems |
+| 48 | How often were you in contact with your study buddy? | Never |
+|   |   | Only when assignments were due |
+|   |   | Once per week |
+|   |   | 2-3 times per week |
+|   |   | Daily |
+| 49 | Would you say that you had a &#39;good&#39; study buddy experience? | Neither good nor bad |
+|   |   | Yes, I had a good experience. |
+|   |   | No, I had a bad experience. |
+| 50 | In setting up the study buddy activity, the instructor refers to &#39;bunnies&#39; as those who quickly get assignments done, and &#39;bears&#39; as those who wait until the last minute. In terms of my study buddy profile, I am… | A bear |
+|   |   | More of a bear |
+|   |   | An equal mix |
+|   |   | More of a bunny |
+|   |   | A bunny |
+| 51 | My study buddy and I had the same profiles (bunny or bear). | 5-point Likert scale from Strongly Disagree (1) to Strongly Agree (5) |
+| 52 | The instructor&#39;s description of bunnies and bears was useful in choosing a study buddy. |
+| 53 | Now that you have had the study buddy experience do you think it is necessary for it to continue to be a formal option in the course or do you think that it is something that is best left to learners to organize by themselves? Please explain your answer. | The study buddy should continue to be a formal option in the course |
+|   |   | It would be better for learners to organize their own study partners. |
+
 
 ### Section 4: Exploring the views of non-participants. {-}
 
 Participants who reported that they did not participate in the study buddy activity were directed to a brief section of questions asking them for explanations of why they chose to not participate and what it might take for them to participate in a similar activity in the future (Table 6).
 
-Table 6
+Table 6. _Alignment of survey items to the views of non-participants._ 
+
+|   |   |   |   |
+| --- | --- | --- | --- |
+| Non-Participants | Indicators | Item # | Items |
+| Structure | Time<br>Instructions | 54 | The instructions for the study buddy were easy to understand. |
+|   |   | 55 | The study buddy activity would have taken too much time. |
+| Value | EffectivenessRecommendations | 56 | The study buddy activity was not worth enough extra credit. |
+|   |   | 57 | I would participate in the study buddy if given another opportunity. |
+| Teamwork | Cooperation<br>Conflict | 58 | I did not participate in the study buddy because I prefer to work alone. |
+|   |   | 59 | I did not participate in the study buddy because I have had negative experiences working in groups in the past. |
+| Open-ended | As above | 60 | Please write a few sentences to explain why you didn&#39;t participate in the study buddy activity and what might encourage you to participate in the future. |
 
 ## Data Collection {-}
 
