@@ -77,7 +77,18 @@ Major theme 2: The value of the activity.
 
 Participants in the study buddy activity reported that the activity was valuable to them because of the social connection it provided in an otherwise lonely learning environment, the benefit of an alternate viewpoint, and the motivation to complete the work on time (Table 16).
 
-Table 16
+Table 16. _Value of the Activity_ 
+
+|   |   |
+| --- | --- |
+| Minor theme | Formulated meaning |
+| Social support | Participants saw the study buddy activity as valuable because it provided a significant amount of social support and promoted deeper relationships between study buddy partners which, in turn, motivated each participant to get their work done on time. Due to the trust and respect built during the activity, partners were able to collegially improve each other&#39;s work. |
+| Peer review |   |
+| Trust and respect | |
+| Peer motivation to study | |
+| Improved reasoning |  |
+| Alternative viewpoint |  |
+| Reduced instructor workload |   |
 
 Participants described the activity as enriching and providing emotional support, comfort, encouragement, and even intimacy with someone with whom they could share frustrations about the course. Furthermore, they emphasized the importance of trust and respect in the success of the activity. One participant wrote,
 
@@ -134,7 +145,14 @@ Major theme 3: The structure of the activity.
 
 Garrison and Cleveland-Innes (2005) argue that the design of the learning environment is a very significant factor in whether or not learners will take a deep approach to their learning and utilize critical thinking skills. In other words, the learning activities must be structured to encourage learners to take a deep approach. In view of this recommendation, participants were asked whether they thought the study buddy activity should be mandatory and structured or voluntary and student driven. Their responses were evenly divided between the two options (Table 17).
 
-Table 17
+Table 17. _Structure of the Activity_ 
+
+|   |   |
+| --- | --- |
+| Minor theme | Formulated meaning |
+| Mandatory and structured | While the participants were split on whether the activity should be mandatory or voluntary, many agreed that the logistics associated with the study buddy needed to be negotiated between the partners |
+| Voluntary and student driven |   |
+| Negotiated |   |
 
 Many participants thought that the activity should be mandatory and structured because of the benefits that they experienced from having participated in the activity and the likelihood that many students would opt out of the activity if it were voluntary. One participant indicated,
 
@@ -197,7 +215,16 @@ Major theme 4: Negative experiences and the views of non-participants.
 
 A key to understanding the full complexities of a phenomenon is to consider the views of those who have views contrary to the prevailing view, an idea supported by the literature on critical thinking (Brookfield, 1987). Study buddy participants who had a negative view of the activity were very clear that the greatest frustrations occurred when there were inequities in either partner’s motivation or in the quality and depth of the feedback received. Others noted that the workload associated with the activity was, at times, problematic (Table 18).
 
-Table 18
+Table 18. _Negative Experiences_ 
+
+|   |   |
+| --- | --- |
+| Theme | Formulated Meaning |
+| Prefer to work alone | Negative experiences played a role in whether students participated in the activity or not. Lack of time and the anticipated workload were significant factors for people who chose not to participate. For those who did participate, incongruent motivations and inadequate feedback were significant sources of frustration. |
+| Not enough time |  |
+| Incongruent motivations |   |
+| Workload |   |
+| Inadequate Feedback |   |
 
 A participant with a less motivated partner wrote,
 

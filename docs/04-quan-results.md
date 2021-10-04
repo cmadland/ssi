@@ -41,6 +41,8 @@ A key structural component of the study buddy activity is the description that t
 A summary of the data related to mix of bunnies and bears in this study is displayed in Table 8.
 
 Table 8. _Mix of Bunnies and Bears (n=25)_ 
+
+|   |   |   |   |
 | --- | --- | --- | --- |
 | Item | Option | n | % of Total |
 | In setting up the Study Buddy activity the instructor refers to &quot;bunnies&quot; as those who quickly get assignments done, and &quot;bears&quot; as those who tend to wait until the last minute. In terms of my study buddy profile, I am: | a bear | 0 | 0 |
@@ -136,7 +138,25 @@ Survey items were designed to align with Slavin’s (2011) integrated model of c
 
 Survey results, shown in table 13, revealed that participants credited the study buddy activity with providing a high level of social cohesion (mean score=4.12). Of particular interest was the finding that nearly all of the participants (96%) indicated that they wanted to help their partner, suggesting that one way to enhance the effect of cooperative learning activities is to capitalize on students’ altruism, i.e., their desire to help others in their class or group.
 
-Table 13
+Table 13. _Alignment with Slavin&#39;s Integrated model of cooperative learning._ 
+
+|   |   |   |   |   |
+| --- | --- | --- | --- | --- |
+| Category | Item | Mean | % of Total who Agree or Strongly Agree | % of Total who Disagree or Strongly Disagree |
+| Motivation | The study buddy activity helped me get better marks on my assignments. | 3.64 | 60 | 12 |
+|   | The study buddy activity helped motivate me to learn the material. | 3.6 | 64 | 16 |
+|   |   | Category Mean | 3.62 | - | - |
+| Social Cohesion | I was able to get to know my study buddy on a personal level. | 3.68 | 68 | 20 |
+|   | I wanted to help my study buddy. | 4.44 | 96 | 0 |
+|   | My study buddy and I worked well together. | 4.24 | 88 | 12 |
+|   |   | Category Mean | 4.12 | - | - |
+| Developmentally Appropriate Challenges | My study buddy and I were able to help each other appropriately. | 3.64 | 60 | 20 |
+|   | My study buddy and I had similar academic abilities. | 3.76 | 76 | 20 |
+|   |   | Category Mean | 3.70 | - | - |
+| Cognitive Restructuring | I disagreed with my study buddy about important course concepts. | 1.84 | 8 | 80 |
+|   | My study buddy clarified my misconceptions about course concepts. | 3.12 | 48 | 32 |
+|    | The study buddy activity helped me think more clearly about the course content. | 3.8 | 76 | 4 |
+|   |   | Category Mean | 2.92 | - | - |
 
 The next most valued category was developmentally appropriate challenges (mean score=3.70), which reflected the importance of having partners who were both willing and able to provide meaningful feedback within their partner’s zone of proximal development.
 
@@ -151,11 +171,35 @@ Most of the findings regarding the aspects of the course that the study buddy ac
 
 The final section of the survey, which asked whether or not participants would recommend the study buddy activity in other contexts showed that most of the participants (88%) would recommend the activity for MDDE 604 (the course in which the participants were enrolled), for other courses in the M.Ed. program, and as a general distance education strategy. 88% of participants answered in the affirmative for all three of these items. Only one respondent (6%) did not recommend the study buddy activity (Table 14).
 
-Table 14
+Table 14. _Specific benefits and recommendations for the study buddy activity. (n=25)_ 
+
+|   |   |   |
+| --- | --- | --- | --- |
+| Item | Option | % Yes | % No |
+| Did the study buddy activity help you to improve: | Your understanding of the course material? | 60 | 40 |
+|   | Your completion of the assignments? | 60 | 40 |
+|   | Your marks in this course? | 52 | 48 |
+|   | Your professional understanding of what instructional design involves? | 36 | 74 |
+|   | Your level of participation in this distance education course? | 60 | 40 |
+|   | Would you recommend the study buddy: | To other learners taking MDDE604? | 88 | 12 |
+|   | For use in other MDDE courses? | 88 | 12 |
+|   | For use as a general distance learning strategy? | 88 | 12 |
+|   | I wouldn't recommend this activity for other learners or courses.a | 6 | 94 |
+| an=18 for this option only. |
 
 The non-participants in the study buddy activity (n=6) reported that they understood from the instructions what would be required to earn credit for the study buddy activity and that they primarily decided to not participate because of the time involved in the activity (Table 15). However, as there were only six participants in this study who did not participate in the study buddy activity, these results should be interpreted with caution and investigated further.
 
-Table 15
+Table 15. _Non-Participants._ _(n=6)_ 
+
+|   |   |
+| --- | ---|
+| Item | Mean |
+| The instructions for the study buddy were easy to understand. | 4.17 |
+| The study buddy activity would have taken too much time. | 4.00 |
+| The study buddy activity was not worth enough extra credit. | 2.50 |
+| I would participate in the study buddy if given another opportunity. | 2.17 |
+| I did not participate in the study buddy because I prefer to work alone. | 3.67 |
+| I did not participate in the study buddy because I have had negative experiences working in groups in the past. | 3.33 |
 
 ## Chapter Summary {-}
 
