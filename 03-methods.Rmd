@@ -10,9 +10,9 @@ Visual model of the research design.
 
 Due to the complexity of many mixed methods designs, Creswell and Plano Clark (2010) recommend that researchers provide a visual model of their particular design. The design used in this investigation, as shown in Figure 6, was a 2-phase QUAN/QUAL concurrent triangulation model (Creswell, 2009, p. 213). The rationale for using the mixed methods approach is that the results of the two forms of data analysis could be compared and merged into an integrated analysis which would be stronger than if either a quantitative or qualitative analysis was performed in isolation. This comparison of analyses is known as triangulation or sometimes as a convergent design (Creswell & Plano Clark, 2010).
 
-Visual Model
+![Figure 6. Visual Model of Research Method](assets/fig6.png "Visual Model of Research Method")
 
-Figure 6. Visual Model of Research Method
+
 
 
 ## Participants {-}

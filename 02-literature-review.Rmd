@@ -28,7 +28,9 @@ Slavin (2011) identifies four possible mechanisms by which well-structured coope
 
 Slavin (2011) proposes that each of these processes can be integrated into a single model showing how cooperative learning activities might affect student achievement (Figure 4).
 
-Figure 4. Integrated theoretical model of cooperative learning processes
+![Figure 4. Integrated theoretical model of cooperative learning processes](assets/fig4.png "Figure 4. Integrated theoretical model of cooperative learning processes") 
+
+
 
 In Slavin’s model, the learning activity must be designed primarily to promote positive interdependence, where the achievement of the group depends upon the learning of all group members. When positive interdependence is a characteristic of the learning activity, Slavin proposes that group members are more motivated to learn for personal and social reasons and that there is a greater sense of social cohesion. Furthermore, increased motivation to learn and increased social cohesion are mutually reinforcing. These personal and social drivers then provide the conditions necessary for group members to engage in deeper approaches to learning, where they explain concepts and misconceptions, form and defend positions and debate the merits of ideas.
 
@@ -80,7 +82,9 @@ Biggs et al. (2001) refer to this phenomenon as the 3P model of teaching and lea
 
 Despite the mutual influence among the elements of the model, the most important element in an educational context is the processes in which students engage and the approach that they take to the learning task.
 
-Figure 5. The 3P Model of Teaching and Learning (Biggs et al., 2001, p. 21)
+![Figure 5. The 3P Model of Teaching and Learning (Biggs et al., 2001, p. 21)](assets/fig5.png "Figure 5. The 3P Model of Teaching and Learning")
+
+
 
 Biggs quotes Shuell (1986, p. 429), who states,
 

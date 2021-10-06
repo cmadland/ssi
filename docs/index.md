@@ -26,7 +26,7 @@ Quantitative and qualitative results were merged to form conclusions that sugges
 
 ## Approvals {-}
 
-![alt-text](assets/Approvals.png "Approvals page from Athabasca University Faculty of Graduate Studies")
+![Approvals page from Athabasca University Faculty of Graduate Studies](assets/Approvals.png "Approvals page from Athabasca University Faculty of Graduate Studies")
 
 ## Dedication {-}
 

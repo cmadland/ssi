@@ -50,21 +50,21 @@ It is very interesting to note that, while the non-participants were most concer
 
 ## Models of Interaction {-}
 
-A foundational idea in the online distance learning literature is Anderson’s (2003b) model that describes the modes of interaction. More recently, Kanuka (2011) presented a variation on Anderson’s model, which inspired a further revision and integration of Anderson’s and Kanuka’s models, the Structured Student Interactions model. It was proposed that educative interactions (i.e., structured learning activities) occur within the context of the course content. The interactions can take the form of student-self (through reflection), student-student, and student-instructor (Figure 6).
+A foundational idea in the online distance learning literature is Anderson’s (2003b) model that describes the modes of interaction. More recently, Kanuka (2011) presented a variation on Anderson’s model, which inspired a further revision and integration of Anderson’s and Kanuka’s models, the Structured Student Interactions model. It was proposed that educative interactions (i.e., structured learning activities) occur within the context of the course content. The interactions can take the form of student-self (through reflection), student-student, and student-instructor (Figure 7).
 
-Structured Student Interaction Model
+![Figure 7. Structured Student Interactions Model](assets/fig3.png "Structured Student Interaction Model")
 
-Figure 6. Structured Student Interactions Model
+
 
 A further, related idea is Anderson’s (2003a) Interaction Equivalency Theorem, which postulates that any of the modes of interaction may be reduced or eliminated, without degrading the learning experience, as long as one mode remains at a high level. This investigation has shown that high quality, content-focused student-student interactions can be successfully promoted by including a structured study buddy activity as an option in a course. Participants in the study buddy activity reported high levels of social interaction and cognitive engagement, both of which align with Anderson’s model and theorem, as well as the Structured Student Interactions model. Furthermore, Bernard et al. (2009), in their meta-analysis of interaction in distance education, found that the strongest learning effects were gained when student-student and student-content interactions were emphasized, a finding that seems to be supported by the high levels of social and potential for cognitive engagement in the study buddy activity.
 
 ## Integrated Model of Cooperative Learning {-}
 
-Slavin’s (2011) integrated model of cooperative learning (Figure 7) is also foundational to understanding the study buddy activity and how it promotes social interaction and learning.
+Slavin’s (2011) integrated model of cooperative learning (Figure 8) is also foundational to understanding the study buddy activity and how it promotes social interaction and learning.
 
-Cooperative Learing Model - Slavin 2011
+![Figure 8. Slavin’s Integrated Model of Cooperative Learning](assets/fig4.png "Cooperative Learning Model")
 
-Figure 7. Slavin’s Integrated Model of Cooperative Learning
+
 
 Based on student reports as well as knowledge of the structure of the study buddy activity, it appears that this activity aligns with Slavin’s model. From the outset, the activity featured group goals based on the learning of all members. In order for the activity to be successful, both partners had to be trustworthy to complete their work in submitting their assignments and feedback to their partner in a timely fashion. Social cohesion seemed to be the component of Slavin’s model with the most significant effect on the student experience, a finding supported by both the quantitative and qualitative analyses.
 
@@ -76,11 +76,11 @@ Given this close alignment with Slavin’s model, the study buddy should be cons
 
 ## 3P Model of Teaching and Learning {-}
 
-The final model that served as a basis for this investigation was the 3P (Presage, Process and Product) model of teaching and learning proposed by Biggs et al. (2001) (Figure 8)
+The final model that served as a basis for this investigation was the 3P (Presage, Process and Product) model of teaching and learning proposed by Biggs et al. (2001) (Figure 9)
 
- 
+ ![Figure 9. 3P Model of Teaching and Learning.](assets/fig5.png "3P Model of Teaching and Learning")
 
-Figure 8. 3P Model of Teaching and Learning.
+
 
 In discussing the idea of a student’s approach to learning, Biggs et al. use the 3P model to describe the factors which influence whether a student will take a deep or a surface approach to learning. The model shows how student factors interact with the teaching context during the learning activities and lead to the attainment, or non-attainment, of the learning outcomes. They argue that the instructor is responsible for the design and structure of the learning environment and that the student is responsible for engaging appropriately with the activities.
 

@@ -41,10 +41,11 @@ Anderson (2003b) highlights various different ways to understand the notion of i
 
 Several theorists have identified different modes of interaction in educational contexts such as that between and among students, teachers, and the content that is to be learned (Anderson, 2003a, 2003b; Bernard et al., 2009; Kanuka, 2011; Moore, 1989). The three principal modes of interaction in education are student-student, student-teacher, and student-content. Anderson and Garrison (1998) introduced a model that includes the three primary forms of interaction and also expands to include other forms, such as teacher-content interaction, which are important, but beyond the scope of this thesis (Figure 1). The two diagonal arrows between their respective objects indicate student-teacher interactions and student-content interactions, and the recursive arrow at the top of the diagram indicates student-student interaction. These three primary forms of student interactions are described in the following sections.
 
-Modes Interaction Anderson
+![Figure 1. Modes of Interaction (Anderson & Garrison, 1998)](assets/fig1.png "Anderson's Modes of Interaction")
 
-Figure 1. Modes of Interaction (Anderson & Garrison, 1998)
-Student-teacher interaction.
+
+
+### Student-teacher interaction. {-}
 
 Systems dedicated to formal education have typically emphasized student-teacher interaction as being of critical importance (Anderson, 2003a; Moore & Kearsley, 2005).  Moore and Kearsley note that teachers often interact with students in order to stimulate interest and motivation to learn as well as help students apply their learning. Ally (2008) notes that while online distance learning is always mediated by some sort of technology, digital or otherwise, the learning that happens cannot be attributed to the technology itself, but rather to the activities and strategies designed into the learning materials as well as the instructor’s guidance and direction of the learning activities.
 
@@ -115,18 +116,18 @@ Following Anderson (2003a), Kanuka, (2011) points out that many distance educato
 
 While Kanuka’s model may provide clarity on the role of content in educative interactions, it seems to present fewer options for students and their interactions. In Kanuka’s model, students interact with either other students or with their teacher.
 
-Kanuka Modes of Interaction
+![Figure 2. Kanuka’s Depiction of Anderson’s Modes of Interaction](assets/fig2.png "Kanuka's Modes of Interaction")
 
-Figure 2. Kanuka’s Depiction of Anderson’s Modes of Interaction
+
 
 What neither of these models seems to capture, however, is that there could be two different types of student-student interactions. On one hand, student-student interaction could refer to the structured peer interactions that are designed to encourage critical discourse around the content, but on the other hand, it could also refer to the inner, reflective transformations of ideas as an individual student reorganizes his or her cognitive models. A synthesis of these two models, which incorporates both types of student-student interaction, might be depicted in the Structured Student Interactions model as shown in Figure 3.
 Structured Student Interactions model.
 
 The Structured Student Interactions model shows the three objects that may interact with each other as the student (top), other students (left), and teachers (right). The structure of each of the three objects in the model indicates that reflective interaction, or metacognition, is an important component of learning and may happen within the student, within other students, and within the teacher. The three arrows between the objects indicate that the interactions between the objects happen through structured learning activities such as the study buddy activity or a debate. At the top of the model is the student who is engaged in learning. The model shows that the student may interact with themselves, with other students, or with their teacher about the content to be learned and through structured learning activities.
 
-Structured Student Interaction Model
+![Figure 3. Structured Student Interactions Model](assets/fig3.png "Structured Student Interaction Model")
 
-Figure 3. Structured Student Interactions Model
+
 
 In addition, the Structured Student Interactions model incorporates the idea that students can learn by observing the interactions between and among their peers and the teacher, a process known colloquially as lurking in online forums, and more officially as “vicarious” interaction (Sutton, 2001). While Anderson (2003b) specifically sets vicarious interaction aside as a byproduct of the other forms of interaction and as being dependent upon agents external to the student, the author’s personal experience has been that vicarious interaction can be a valuable educational experience, especially in an online course where those interactions happen in a discussion forum and are observable by other course participants. Furthermore, although they were not specifically measuring learning, Moisey, Neu, and Cleveland-Innes (2008) found that the number of forum postings that students read per week (lurking behaviour) was significantly correlated to students feeling connected to the classroom community, while posting and replying to messages was not. While feeling connected to a community does not guarantee that a student is meeting learning objectives, it is a construct valued by those who want to increase student engagement.
 
@@ -157,9 +158,9 @@ While there is little prescribed structure for the activity, the structure that 
 
 The study buddy activity requires students to find a partner in the class with whom they will exchange assignments a few days prior to the assignment deadline for the purposes of providing constructive feedback. Students who complete all the requirements of the activity can earn up to an additional 5% towards their final grade. The activity is introduced to students in the course with the following description (Richards, personal communication, January 3, 2013):
 
-Up to five additional points can be earned by pairing up with a classmate and reviewing each assignment before it is submitted to the instructor.
+> Up to five additional points can be earned by pairing up with a classmate and reviewing each assignment before it is submitted to the instructor.
 
-A short (1-2 page) reflection on the activity is due at the end of the course. You will be “audited” and asked to submit your review work in order to get the bonus marks (nothing for free these days). The reflection should answer questions like: How did you choose your Buddy? How did you organize your work? What were the positives and negatives you experienced? In what ways did it improve your learning? Would you recommend it for the next course? Please add any suggestions for improving this activity.
+> A short (1-2 page) reflection on the activity is due at the end of the course. You will be “audited” and asked to submit your review work in order to get the bonus marks (nothing for free these days). The reflection should answer questions like: How did you choose your Buddy? How did you organize your work? What were the positives and negatives you experienced? In what ways did it improve your learning? Would you recommend it for the next course? Please add any suggestions for improving this activity.
 
 The instructor leaves it up to the students to organize themselves into pairs and after the first week of the course, posts the following announcement or one similar:
 
