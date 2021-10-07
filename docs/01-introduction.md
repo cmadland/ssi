@@ -164,15 +164,15 @@ The study buddy activity requires students to find a partner in the class with w
 
 The instructor leaves it up to the students to organize themselves into pairs and after the first week of the course, posts the following announcement or one similar:
 
-**Week 1 Instructor Announcement – hints for success in the course:**
+> **Week 1 Instructor Announcement – hints for success in the course:**
 
-Find a good Study Buddy and work together to improve each other’s work. While the buddies’ commitment is to exchange & proofread assignments 3 days before the due dates (to have time to make fixes) most buddies end up discussing assignments at the beginning, middle and end. (I’ll send more info on the study buddy bonus later).
+> Find a good Study Buddy and work together to improve each other’s work. While the buddies’ commitment is to exchange & proofread assignments 3 days before the due dates (to have time to make fixes) most buddies end up discussing assignments at the beginning, middle and end. (I’ll send more info on the study buddy bonus later).
 
 After the third week, the instructor posts another announcement:
 
-**Study Buddy Reminder**
+> **Study Buddy Reminder**
 
-Just a reminder that Wednesday is your last day to find a Study Buddy partner (because Assignment 1 has curmudgeons, to be exchanged 3 days prior the due date). Study Buddy is not for everyone, procrastinators and short cutters tend not to fare well. But when sincere bears match with bears and bunnies with bunnies it tends to out a whole new spin on learning at a distance.
+> Just a reminder that Wednesday is your last day to find a Study Buddy partner (because Assignment 1 has curmudgeons, to be exchanged 3 days prior the due date). Study Buddy is not for everyone, procrastinators and short cutters tend not to fare well. But when sincere bears match with bears and bunnies with bunnies it tends to out a whole new spin on learning at a distance.
 
 Occasionally, a study buddy partnership does not work out so the instructor allows participants who might unwittingly find themselves without a functioning partnership to back out and find a new partner. There was one case in this investigation where the instructor needed to help a stranded partner find a new partner.
 
